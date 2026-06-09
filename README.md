@@ -368,6 +368,8 @@ pip install -r requirements.txt
 
 # Author
 
+Qaiser Anoosh Mughal AWS Data Engineer And Networks 
+
 Data Science & Machine Learning Portfolio Project
 
 This repository demonstrates practical implementation of machine learning solutions aligned with industry-standard workflows, business objectives, and analytical best practices.
