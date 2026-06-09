@@ -1,0 +1,6 @@
+age;job;marital;education;balance;housing;loan;contact;day;month;duration;campaign;pdays;previous;deposit
+25;admin.;single;bachelor;1200;yes;no;cellular;5;may;120;1;-1;0;yes
+32;technician;married;diploma;3400;yes;yes;telephone;12;jun;340;2;100;1;no
+47;management;married;master;15000;no;no;cellular;18;jul;220;1;-1;0;yes
+51;services;divorced;high.school;2300;yes;no;cellular;22;aug;150;3;200;2;no
+29;student;single;bachelor;500;no;no;telephone;30;sep;90;1;-1;0;yes
